@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: opx;
+}
+.bg-custom{
+    background-color:#E9ECEF;
+}
+#cizgi{
+    border-style:solid;
+    border-color: black;
+    border-width: 15px;
+    background-color: black;
+}
+#cizgi a{
+    text-decoration: none;
+}
+#muzik{
+    color: red;
+}
+#muzik1,#muzik2,#muzik3{
+color: white;
+}
+#text{
+    position: relative;
+    left: 670px;
+}
+#hak{
+    color: blueviolet;
+}
+.parag{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.kutu{
+   border-style: none;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: 100px;
+   width: 10px;
+   height: 450px;
+}
+#kutular{
+    padding: 50px;
+}
+.ac{
+    margin-right: 400px;
+    margin-left: -35px;
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    padding-bottom: 120px;
+    margin-right: -20px;
+}
+.text{
+    color: #7913ac;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -90px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.but{
+    width: 60px;
+    height: 25px;
+    text-align: center;
+}
+.but1{
+    margin-top: -7px;
+}
